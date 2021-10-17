@@ -228,6 +228,9 @@
     background-color: #333333;
     color: #666666;
   }
+  button:active {
+    transform: scale(9.1);
+  }
   
   .tab,
   .backspace,
